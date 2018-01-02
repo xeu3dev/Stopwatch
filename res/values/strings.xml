@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="plus10">+10 SEC</string>
+    <string name="plus30">+30 SEC</string>
+    <string name="plus1m">+1 MIN</string>
+    <string name="plus5m">+5 MIN</string>
+    <string name="plus30m">+30 MIN</string>
+    <string name="plus1h">+1 HOUR</string>
+</resources>
